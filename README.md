@@ -1,11 +1,11 @@
 # C Programming Practice
 
-This repository contains my C programming practice solutions, including exercises from **K. N. King's *C Programming: A Modern Approach*** and selected **Codeforces problems**.
+This repository contains my C programming solutions developed as part of my **Structured Programming Lab** coursework.
 
 ## Contents
 
-- **K. N. King Exercises:** Solutions to selected textbook exercises covering fundamental C programming concepts.
-- **Codeforces Problems:** Solutions to selected competitive programming problems.
+- **K. N. King Exercises:** Solutions to selected exercises from *C Programming: A Modern Approach* by K. N. King.
+- **Codeforces Problems:** Solutions to selected Codeforces problems practised to strengthen my programming fundamentals and problem-solving skills.
 
 ## Language
 
@@ -13,11 +13,11 @@ This repository contains my C programming practice solutions, including exercise
 
 ## Purpose
 
-The purpose of this repository is to document my progress in learning C, strengthen my problem-solving skills, and maintain a collection of programming solutions for future reference.
+This repository documents my progress in learning C programming through academic lab exercises and competitive programming practice. It serves as a collection of solutions for revision and future reference.
 
 ## Compilation and Execution
 
-You can compile and run a solution using GCC:
+Compile a source file using GCC:
 
 ```bash
 gcc filename.c -o program
@@ -28,8 +28,5 @@ Run the compiled program:
 - **Windows:** `program.exe`
 - **Linux/macOS:** `./program`
 
-Replace `filename.c` with the source file you want to run.
+Replace `filename.c` with the name of the source file.
 
-## Note
-
-This repository is a work in progress. Solutions may be added, revised, or improved as I continue practising.
